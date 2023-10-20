@@ -17,6 +17,7 @@ I have experience with a variety of technologies, including:
 - **JavaScript**: Enhancing web applications with client-side scripting.
 - **HTML/CSS**: Creating visually appealing and responsive web layouts.
 - **Bootstrap**: Rapidly prototyping and designing responsive websites.
+- **Tailwindcss**: For designing responsive websites.
 - **Node.js**: Building scalable and efficient server-side applications.
 - **Express**: Creating RESTful APIs and server-side routing.
 - **MongoDB**: Developing NoSQL databases for flexible data storage.
