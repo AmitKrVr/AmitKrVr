@@ -1,6 +1,6 @@
 # Amit Kumar Verma
 
-👋 Full Stack Web Developer passionate about creating impactful applications.
+👋 Full Stack Developer passionate about creating impactful web and mobile applications.
 
 ## Skills
 
