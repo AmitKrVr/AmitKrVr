@@ -4,16 +4,16 @@
 
 ## Skills
 
-- Frontend: React, Next.js, React Native, HTML, CSS
+- Frontend: React, Next.js, HTML, CSS
 - UI: Tailwind CSS, Bootstrap, Shadcn
 - Backend: Node.js, Express
-- Databases: MongoDB, MySQL
+- Databases: MongoDB
 - Other: JavaScript, Appwrite
 
 ## Get in Touch
 
-- 🌐 Portfolio: [amit-portfolio-green.vercel.app](https://amit-portfolio-green.vercel.app/)
-- 📧 Email: kushwaha6291@gmail.com
+- 🌐 Portfolio: [amit-portfolio-green.vercel.app](https://devamit.info/)
+- 📧 Email: devamit342@gmail.com
 - 🐦 Twitter: [@AmitKrVr](https://twitter.com/AmitKrVr)
 - 💼 LinkedIn: [AmitKrVr](https://www.linkedin.com/in/AmitKrVr)
 
