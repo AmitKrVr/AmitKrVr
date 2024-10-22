@@ -12,7 +12,7 @@
 
 ## Get in Touch
 
-- 🌐 Portfolio: [amit-portfolio-green.vercel.app](https://devamit.info/)
+- 🌐 Portfolio: [devamit.info](https://devamit.info/)
 - 📧 Email: devamit342@gmail.com
 - 🐦 Twitter: [@AmitKrVr](https://twitter.com/AmitKrVr)
 - 💼 LinkedIn: [AmitKrVr](https://www.linkedin.com/in/AmitKrVr)
