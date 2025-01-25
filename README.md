@@ -4,7 +4,7 @@
 
 ## Skills
 
-- Frontend: React, Next.js, HTML, CSS
+- Frontend: React Native, React, Next.js, HTML, CSS
 - UI: Tailwind CSS, Bootstrap, Shadcn
 - Backend: Node.js, Express
 - Databases: MongoDB
