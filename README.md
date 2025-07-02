@@ -2,14 +2,13 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Next.js;Building+Amazing+User+Experiences;Always+Learning+New+Technologies)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Next.js+%7C+React+Native;Building+Amazing+User+Experiences;Mobile+%7C+Web+Development;Always+Learning+New+Technologies)
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Specialization-React%20%7C%20Node.js-blue?style=for-the-badge" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Experience-Frontend%20%2B%20Backend-orange?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Specialization-React%20%7C%20Node.js%20%7C%20React%20Native-blue?style=for-the-badge" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Experience-Frontend%20%2B%20Backend%20%2B%20Mobile-orange?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Mobile%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </div>
 
 ---
@@ -34,7 +33,8 @@ const amit = {
             api: ["REST APIs"]
         },
         deployment: ["Vercel", "Render"],
-        tools: ["Git", "VS Code", "Figma", "Postman"]
+        tools: ["Git", "VS Code", "Figma", "Postman"],
+        Caching: ["Redis"]
     },
     currentFocus: "Building scalable applications with modern tech stack",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
