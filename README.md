@@ -1,4 +1,11 @@
-# 👋 Hi there, I'm Amit Kumar Verma
+# 👋 Hey, I'm Amit — Full Stack & Mobile Developer
+
+I specialize in building performant web and mobile apps using React, Next.js, Node.js, and React Native (Expo).  
+I'm open to full-time roles — remote, onsite, or hybrid.
+
+🔧 Built scalable platforms like [Paydoz](https://www.paydoz.com) (financial insights), [BookWise](https://bookwise-library-rho.vercel.app/) (university LMS), and [Forever](https://forever-shopping.vercel.app/) (e-commerce).
+
+💡 Passionate about UI/UX, performance optimization, and modern development practices.
 
 <div align="center">
   
@@ -24,7 +31,7 @@ const amit = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Redux"],
-            css: ["Tailwind", "Bootstrap", "Shadcn/ui"],
+            css: ["Tailwind", "Bootstrap", "Shadcn UI"],
             mobile: ["React Native", "Expo"]
         },
         backEnd: {
@@ -40,6 +47,14 @@ const amit = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
+
+---
+
+## 🚀 Featured Projects
+
+- 🔎 [Paydoz](https://www.paydoz.com) — Financial insights platform for 3M+ companies in India. *(Next.js, Tailwind, Redux)*
+- 📚 [BookWise](https://bookwise-library-rho.vercel.app/) — University library system with role-based dashboards. *(Next.js, PostgreSQL, Drizzle)*
+- 🛒 [Forever](https://forever-shopping.vercel.app/) — Full-stack e-commerce app with secure payments and admin panel. *(React, Node.js, MongoDB)*
 
 ---
 
@@ -60,7 +75,7 @@ const amit = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
